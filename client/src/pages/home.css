@@ -1,0 +1,25 @@
+.maincontainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 600px;
+    align-items: center;
+}
+.ext{
+    display: flex;
+    flex-direction: column;
+}
+
+.maincontainer button{
+    color:white;
+    background-color: rgb(7,10,50);
+    height: 70px ;
+    cursor: pointer;
+
+    border-radius: 10px;
+    margin: 20px;
+}
+.butt:hover{
+    background-color: white;
+    color: rgb(7,10,50);
+}

@@ -1,0 +1,34 @@
+.main-nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: rgb(7,10,50);
+    padding-top: 20px;
+    height: 250px;
+    color: blanchedalmond;
+}
+.signreg{
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-end;
+    padding: 50px;
+    margin-right: 60px;
+}
+.signreg button{
+    margin: 15px;
+    height: 60px;
+    width: 120px;
+    background-color: white;
+    outline: rgb(7,10,50);
+    transition: width height 2s;
+}
+.signreg button:hover{
+    width: 125px;
+    height: 65px;
+}
+.swad {
+    display: flex;
+}
+.swad button{
+    margin-left: 15px;
+}

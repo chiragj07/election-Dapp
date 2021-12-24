@@ -1,0 +1,20 @@
+.candidate-container{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 400px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 6px;
+    color: rgb(231,201,201);
+    background-color:#151e42;
+}
+button{
+    color: rgb(36, 90, 86);
+    width: 120px;
+    height: 60px;
+    margin: auto;
+    background-color: rgb(231,201,201);
+    color: #151e42;
+    font-size: 20px;
+}

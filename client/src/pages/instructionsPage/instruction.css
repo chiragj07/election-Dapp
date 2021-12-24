@@ -1,0 +1,14 @@
+.instructions-div{
+    display: flex;
+    flex-direction: column;
+}
+.instructions-div li{
+    margin: 4px;
+    text-align: left;
+}
+.instructions-div button{
+    margin-top: 50px;
+    cursor: pointer;
+    background-color: rgb(7,10,50);
+    color: blanchedalmond;;
+}

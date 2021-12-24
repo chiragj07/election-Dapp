@@ -1,0 +1,17 @@
+.formcont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.formcont input{
+    height: 30px;
+    width: 400px;
+    text-align: center;
+    margin: 10px;
+    padding: 7px;
+    /* border: 1px rgb(35, 35, 59); */
+    border-radius: 2px;
+}
+.formcont input:focus{
+    text-align: left;
+}

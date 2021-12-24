@@ -1,0 +1,7 @@
+.holder{
+    display: flex;
+    flex-direction: row;
+    height: 500px;
+    justify-content: space-around;
+    margin:17px;
+}
